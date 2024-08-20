@@ -1,0 +1,7 @@
+The player will initate the action - have o figure out how
+
+
+then the code will check the state of the board and then print the FEN notation of the current state and store it
+
+
+have to figure out the method of how the board will be manipulated 
