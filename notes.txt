@@ -5,3 +5,5 @@ then the code will check the state of the board and then print the FEN notation 
 
 
 have to figure out the method of how the board will be manipulated 
+
+all of the functions i am making will have to relate to ayalzing the board 
